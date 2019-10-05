@@ -1,0 +1,11 @@
+C:\Users\hgcgo\source\repos\dti\dti.domain\bin\Debug\dti.domain.dll
+C:\Users\hgcgo\source\repos\dti\dti.domain\bin\Debug\dti.domain.pdb
+C:\Users\hgcgo\source\repos\dti\dti.domain\bin\Debug\dti.domain.core.dll
+C:\Users\hgcgo\source\repos\dti\dti.domain\bin\Debug\dti.domain.core.pdb
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.csprojAssemblyReference.cache
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.csproj.CoreCompileInputs.cache
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.csproj.CopyComplete
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.dll
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.pdb
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.Produtos.Resources.ProdutoValidacaoResource.resources
+C:\Users\hgcgo\source\repos\dti\dti.domain\obj\Debug\dti.domain.csproj.GenerateResource.cache

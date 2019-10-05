@@ -1,0 +1,5 @@
+C:\Users\hgcgo\source\repos\dti\dti.domain.core\bin\Debug\dti.domain.core.dll
+C:\Users\hgcgo\source\repos\dti\dti.domain.core\bin\Debug\dti.domain.core.pdb
+C:\Users\hgcgo\source\repos\dti\dti.domain.core\obj\Debug\dti.domain.core.csproj.CoreCompileInputs.cache
+C:\Users\hgcgo\source\repos\dti\dti.domain.core\obj\Debug\dti.domain.core.dll
+C:\Users\hgcgo\source\repos\dti\dti.domain.core\obj\Debug\dti.domain.core.pdb

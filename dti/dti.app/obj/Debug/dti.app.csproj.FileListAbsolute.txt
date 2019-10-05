@@ -1,0 +1,12 @@
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.app.dll
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.app.pdb
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.domain.dll
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\FastMapper.dll
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.domain.core.dll
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.domain.pdb
+C:\Users\hgcgo\source\repos\dti\dti.app\bin\Debug\dti.domain.core.pdb
+C:\Users\hgcgo\source\repos\dti\dti.app\obj\Debug\dti.app.csprojAssemblyReference.cache
+C:\Users\hgcgo\source\repos\dti\dti.app\obj\Debug\dti.app.csproj.CoreCompileInputs.cache
+C:\Users\hgcgo\source\repos\dti\dti.app\obj\Debug\dti.app.csproj.CopyComplete
+C:\Users\hgcgo\source\repos\dti\dti.app\obj\Debug\dti.app.dll
+C:\Users\hgcgo\source\repos\dti\dti.app\obj\Debug\dti.app.pdb
